@@ -1,3 +1,4 @@
+roboflow>=1.1.49
 setuptools>=68.2.0
 twine>=5.1.1
 ultralytics>=8.3.28
